@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+In Summer Session B of 2020, I took an introductory GIS course, Geog 172A. This class was based in the coding language, R. This is a list of the projects I have been working on. 
+
+*****
+
+#### [Building a project website](https://github.com/ktakeuchi2/ktakeuchi2.github.io)
+
+- This was Lab01, in which we created a website using Github Pages, where all of our work would be featured for this class.
+- Through this project, we explored the uses of R Markdown, Viewer, and the 'knit' function to see our changes throughout the process.
+- Includes a github repo for access to all the code.

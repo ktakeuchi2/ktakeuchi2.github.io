@@ -1,0 +1,15 @@
+---
+title: "About Me"
+---
+
+![](./img/IMG_1397.jpg){width="40%"}
+
+## Hello, I am Kiki Takeuchi!
+
+</right>
+
+I am currently an Environmental Science B.S. Undergraduate at UC Santa Barbara. My interests lie in marine ecology, food security, and GIS applications to conservation issues. I recently conducted research abroad as a student in Thailand and Indonesia, studying the coral reefs and marine ecosystems in these regions. Outside of school, I am a barista for Philz Coffee, and enjoy playing the uke, thrifting, and going for long hikes. fa("rocket")
+
+Some of my goals include backpacking Vietnam and Japan, opening up a sustainable cafe, and surfing around the world. Another goal is to apply GIS skills to spacially mapping how coffee-growing regions are projected to respond to climate changes. 
+
+#### Thanks for stopping by! 
