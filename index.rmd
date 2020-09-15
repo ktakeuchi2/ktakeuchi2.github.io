@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![](../img/profile.jpg){width="30%"}
+![](img/profile.jpg){width="30%"}
 
 *****
 
@@ -19,7 +19,8 @@ email: kkt@ucsb.edu
 
 I am currently an Environmental Science B.S. Undergraduate at UC Santa Barbara. My interests lie in marine ecology, food security, and GIS applications to conservation issues. I recently conducted research abroad as a student in Thailand and Indonesia, studying the coral reefs and marine ecosystems in these regions. During this program, I gained experience in hands-on skills necessary for conservation work, including GPS reading, transects, site comparisons through photography, species identification, and research paper writing.
 
-![](../img/coral.jpg){width="30%"}
+![](img/coral.jpg){width="30%"}
+
 One of the Coral Site Replications we made. 
 
 
@@ -35,4 +36,4 @@ Some of my goals include backpacking Vietnam and Japan, opening up a sustainable
 
 #### Thanks for stopping by! 
 
-rmarkdown::render_site()
+
