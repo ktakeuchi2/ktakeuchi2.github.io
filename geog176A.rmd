@@ -22,6 +22,7 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - We then displayed this information using knitr tables and produced a 7-day rolling mean of new cases per capita counts.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab02.Rmd)
 
+![](../img/four-states-7-day-rolling-mean.png)
 
 
 #### [Projections, Distances, and Mapping](https://ktakeuchi2.github.io/geog-176A-labs/lab-03.html)
@@ -31,6 +32,7 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - Finally, we created the "Border Zone" on a map and identified the most populated cities in this region, as well as the total population affected by policies in question.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-03.Rmd)
 
+![](../../geog-176A-labs/img/lab03_us_border_zone.png)
 
 
 #### [Tesselations, Spatial Joins, and Point-in-Polygon of Dam Information](https://ktakeuchi2.github.io/geog-176A-labs/lab-04.html)
@@ -41,7 +43,6 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-04.Rmd)
 
 
-
 #### [Raster Analysis of Flooding near Palo, Iowa](https://ktakeuchi2.github.io/geog-176A-labs/lab05)
 
 - This project addresses the issues of flooding near Palo, Iowa.
@@ -49,11 +50,13 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - The flooding area was then mapped using mapview to create an interactive map.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-05.Rmd)
 
+![](../../geog-176A-labs/img/lab05_total_flood.png)
 
-
-#### [Terrain Analysis of Santa Barbara]()
+#### [Terrain Analysis of Santa Barbara](https://ktakeuchi2.github.io/geog-176A-labs/lab-06.html)
 
 - This project seeks to identify buildings affected in Santa Barbara due to the flooding along Mission Creek.
 - Whitebox is used to create rasters of the hillshade, and HAND (Height Above Nearest Drainage), which allows us to identify elevation levels affected by flooding, the buildings on these levels, as well as lower levels also impacted. 
 - We then created a FIM (Flooding Inundation Map) Library for the Mission Creek Basin to create a flood warning system.
-- [github repo]()
+- [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-06.Rmd)
+
+![](../img/mission_creek_flood.png)
