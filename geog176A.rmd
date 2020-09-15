@@ -22,7 +22,7 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - We then displayed this information using knitr tables and produced a 7-day rolling mean of new cases per capita counts.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab02.Rmd)
 
-![](../img/four-states-7-day-rolling-mean.png)
+![](img/four-states-7-day-rolling-mean.png)
 
 
 #### [Projections, Distances, and Mapping](https://ktakeuchi2.github.io/geog-176A-labs/lab-03.html)
@@ -32,7 +32,7 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - Finally, we created the "Border Zone" on a map and identified the most populated cities in this region, as well as the total population affected by policies in question.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-03.Rmd)
 
-![](../../geog-176A-labs/img/lab03_us_border_zone.png)
+![](../geog-176A-labs/img/lab03_us_border_zone.png)
 
 
 #### [Tesselations, Spatial Joins, and Point-in-Polygon of Dam Information](https://ktakeuchi2.github.io/geog-176A-labs/lab-04.html)
@@ -50,7 +50,7 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - The flooding area was then mapped using mapview to create an interactive map.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-05.Rmd)
 
-![](../../geog-176A-labs/img/lab05_total_flood.png)
+![](../geog-176A-labs/img/lab05_total_flood.png)
 
 #### [Terrain Analysis of Santa Barbara](https://ktakeuchi2.github.io/geog-176A-labs/lab-06.html)
 
@@ -59,4 +59,4 @@ In Summer Session B of 2020, I took an introductory GIS course, Geog 176A. This 
 - We then created a FIM (Flooding Inundation Map) Library for the Mission Creek Basin to create a flood warning system.
 - [github repo](https://github.com/ktakeuchi2/geog-176A-labs/blob/master/docs/lab-06.Rmd)
 
-![](../img/mission_creek_flood.png)
+![](img/mission_creek_flood.png)
