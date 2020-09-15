@@ -34,3 +34,5 @@ I am also proficient in ArcGis and have utilized this program to address the iss
 Some of my goals include backpacking Vietnam and Japan, opening up a sustainable cafe, and surfing around the world. Another goal is to apply GIS skills to spacially mapping how coffee-growing regions are projected to respond to climate changes. 
 
 #### Thanks for stopping by! 
+
+rmarkdown::render_site()
