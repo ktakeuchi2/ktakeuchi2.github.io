@@ -14,6 +14,7 @@ Environmental Studies B.S.
 
 
 **Las Lomas High School**
+
 Graduated June 2017
 
 *****
@@ -24,15 +25,10 @@ Graduated June 2017
 
 Wildlands Program - Thailand, Indonesia
 
-January 2020- March 2020
+January 2020 - March 2020
 
 - 6-week study abroad environmental research program in Thailand and Indonesia
-- Skills learned included underwater transects, photo replication sites, writing research papers, and species identification
-
-**Server**
-Burma 2 - Walnut Creek, CA
-
-July 2019 - January 2020
+- Skills acquired included GPS usage, underwater transects, photo replications, writing research papers, and species identification
 
 **Marketing Intern** 
 Touch A Heart - Oahu, HI
@@ -43,7 +39,7 @@ June 2018 - August 2018
 
 ### Technical Skills
 - Competent in Microsoft Word, Excel Spreadsheets, Canva Marketing Tools, Basic Wordpress skills, Keynote
-- Competent in Aloha Restaurant POS System
 - Research skills: species identification of coral reef fish species, GIS exposure, transects on land and in water, photo replication sites, underwater photography
 - Open Water Dive Certified
 - Competent in ArcGIS
+- Competent in R Language 
